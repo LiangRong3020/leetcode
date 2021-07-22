@@ -33,3 +33,5 @@ class Solution(object):
             return record_list[0][0]+1
         else:
             return max(record_list[-1][0] + 1, last_time_max+1)
+
+
