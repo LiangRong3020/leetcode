@@ -18,5 +18,5 @@ class Solution(object):
             s += 1
 
         return False
-    
+
 
