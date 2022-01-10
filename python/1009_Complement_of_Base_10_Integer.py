@@ -15,6 +15,3 @@ class Solution(object):
                 ans += 2**(binary_lenght -1 -i)
 
         return ans
-
-tt= Solution()
-print(tt.bitwiseComplement(2))
